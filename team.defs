@@ -1,0 +1,17 @@
+#Tue Jan 13 08:14:04 CST 2026
+bluej.teamsettings.git.branch=main
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/lucaskreed/bluejarrays
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=lucaskreed
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=lucasreed.dev@gmail.com
+bluej.teamsettings.yourName=Lucas Reed
